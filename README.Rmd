@@ -1,4 +1,3 @@
-
 # About the project
 
 IODS provides tools and approaches valuable for data garnering, exploration, processing, sharing, and dissemination. The course builds on three core themes:
@@ -9,4 +8,4 @@ IODS provides tools and approaches valuable for data garnering, exploration, pro
 
 *Open data* and *open science* are important as ever and fortunately increasingly in demand these days. Together they improve reproducibility of research and ensure transparency. Moreover, sharing our data, tools, and results inevitably maximizes our collective research output thus benefiting all of the scientific community, the society and (hopefully) the environment. The *data science* element addresses challenges related to the extraction and representation of meaningful information from mountains of raw data.
 
-[Course diary](https://marttiinar.github.io/IODS-project/)
+[Course diary] (https://marttiinar.github.io/IODS-project/)
